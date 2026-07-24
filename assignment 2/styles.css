@@ -1,0 +1,98 @@
+body {
+    background-color: #f2f2f2;
+    color: #222222;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+.navigation {
+    background-color: #dbeafe;
+    border: 1px solid #4a6fa5;
+    padding: 12px;
+}
+
+h1 {
+    color: #1f4e79;
+    font-size: 28px;
+    margin: 20px 0;
+}
+
+h2 {
+    color: #2f5f8f;
+    font-size: 22px;
+    margin: 25px 0 10px 0;
+}
+
+a {
+    color: #1f4e79;
+    text-decoration: none;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border: 3px solid #4a6fa5;
+    margin: 10px 0;
+}
+
+table {
+    background-color: #ffffff;
+    width: 100%;
+    border: 1px solid #444444;
+    margin: 10px 0;
+}
+
+th {
+    background-color: #dbeafe;
+    border: 1px solid #444444;
+    padding: 8px;
+}
+
+td {
+    border: 1px solid #444444;
+    padding: 8px;
+}
+
+form {
+    background-color: #ffffff;
+    width: 450px;
+    border: 1px solid #4a6fa5;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+input {
+    width: 300px;
+    height: 28px;
+    border: 1px solid #777777;
+    padding: 4px;
+    margin: 5px 0;
+}
+
+select {
+    width: 310px;
+    height: 38px;
+    border: 1px solid #777777;
+    padding: 4px;
+    margin: 5px 0;
+}
+
+textarea {
+    width: 300px;
+    height: 120px;
+    border: 1px solid #777777;
+    padding: 4px;
+    margin: 5px 0;
+}
+
+input[type="submit"] {
+    background-color: #1f4e79;
+    color: #ffffff;
+    width: 100px;
+    height: 35px;
+    border: 1px solid #1f4e79;
+    padding: 5px;
+    margin: 5px 0;
+}
